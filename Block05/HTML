@@ -1,0 +1,21 @@
+<html>
+
+  <head>
+    <link rel=”stylesheet” href=”style.css”>
+   <title>Grocery list</title>
+ 
+ </head>
+
+  <body>
+    <h1>Grocery list </h1>
+    <p> I need to get grocories! </p>
+    <ul> 
+        <li> Eggs </li>
+       <li> Spinach </li> 
+       <li> Sriracha Sauce </li> 
+    </ul>
+    <img src="image.png"/>
+    <a href="http://www.google.com/">link text</a>
+  </body>
+
+<html>
